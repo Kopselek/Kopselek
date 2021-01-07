@@ -1,6 +1,6 @@
 ### Hello there, Im [Konrad Kacperek (Kopselek)](https://github.com/Kopselek)
 
-I am passionate about Python and Java
+I am passionate about Python and Java,
 currently expanding my knowledge in devops field through practical studying Docker and Azure.
 
 How to reach me:
