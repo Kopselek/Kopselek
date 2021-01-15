@@ -5,7 +5,7 @@ currently expanding my knowledge in devops field through practical studying Dock
 
 How to reach me:
 
-- [Facebook](https://www.facebook.com/konrad.kacperek.1) - Konrad Kacperek
+- [LinkedIn](https://www.linkedin.com/in/konrad-kacperek-709740198/)
 
 - Email - kontakt@kacperek.ovh
 
