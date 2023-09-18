@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **kontakt@kacperek.ovh**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/konrad-kacperek-709740198/](https://www.linkedin.com/in/konrad-kacperek-709740198/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/konrad-kacperek/](https://www.linkedin.com/in/konrad-kacperek/)
 
 - ⚡ Fun fact **Im learning 日本語**
 
