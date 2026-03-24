@@ -17,4 +17,6 @@
   Other: Git | Linux | Docker
 </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kopselek&" alt="kopselek" /></p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kopselek" alt="kopselek" />
+</p>
